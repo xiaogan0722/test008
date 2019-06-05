@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 num=1
 23
@@ -11,5 +12,8 @@ numasfjdhgf
 dfjksdghfkjsdd
 fdsfsdf
 ds
+=======
+1111111111111
+>>>>>>> dev
 
 
